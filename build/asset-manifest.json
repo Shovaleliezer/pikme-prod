@@ -1,8 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6cd4c45c.css",
-    "main.js": "/static/js/main.3bd34f2f.js",
-    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "main.css": "/static/css/main.60940332.css",
+    "main.js": "/static/js/main.6b9ece37.js",
     "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.d2d7f0c01bffaa5ec8f7.ttf",
     "static/media/table-tennis.webp": "/static/media/table-tennis.f6a1b6b4d525b7afde60.webp",
     "static/media/poker-mobile.webp": "/static/media/poker-mobile.ccd271d3d19159effa7e.webp",
@@ -37,8 +36,8 @@
     "static/media/popup-info.webp": "/static/media/popup-info.e597312b206abe4d2ecf.webp",
     "static/media/user-icon.webp": "/static/media/user-icon.e1b001d84c2398fa648c.webp",
     "static/media/logo.webp": "/static/media/logo.7a2555d8f56047163d7f.webp",
-    "static/media/table-tennis-big.webp": "/static/media/table-tennis-big.950f71523a431132f011.webp",
     "index.html": "/index.html",
+    "static/media/table-tennis-big.webp": "/static/media/table-tennis-big.950f71523a431132f011.webp",
     "static/media/binance.webp": "/static/media/binance.7cbd6ba50b37c9ab1354.webp",
     "static/media/sand-watch.webp": "/static/media/sand-watch.64adb93ce2994b37cc52.webp",
     "static/media/youtube.webp": "/static/media/youtube.cf4e4cbb272e28218fd4.webp",
@@ -52,12 +51,11 @@
     "static/media/home-icon-dark.webp": "/static/media/home-icon-dark.316a7f58d43b3b9cf07c.webp",
     "static/media/stream-icon-dark.webp": "/static/media/stream-icon-dark.9f2319b1bb81886b4463.webp",
     "static/media/chat-header.webp": "/static/media/chat-header.f544a67b45a770b36e1f.webp",
-    "main.6cd4c45c.css.map": "/static/css/main.6cd4c45c.css.map",
-    "main.3bd34f2f.js.map": "/static/js/main.3bd34f2f.js.map",
-    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+    "main.60940332.css.map": "/static/css/main.60940332.css.map",
+    "main.6b9ece37.js.map": "/static/js/main.6b9ece37.js.map"
   },
   "entrypoints": [
-    "static/css/main.6cd4c45c.css",
-    "static/js/main.3bd34f2f.js"
+    "static/css/main.60940332.css",
+    "static/js/main.6b9ece37.js"
   ]
 }
