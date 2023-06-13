@@ -13,6 +13,9 @@ if (process.env.NODE_ENV === 'production') {
     }
     app.use(cors(corsOptions))
 }
+app.get('/sitemap.xml', (req, res) => {
+    res.sendFile(path.join(__dirname, 'sitemap.xml'))
+})
 
 app.get('/**', (req, res) => {
     res.sendFile(path.join(__dirname, 'build', 'index.html'))
