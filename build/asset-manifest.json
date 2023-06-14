@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.60940332.css",
-    "main.js": "/static/js/main.a802a8e5.js",
+    "main.js": "/static/js/main.480feb17.js",
     "static/media/Roboto-Medium.ttf": "/static/media/Roboto-Medium.d2d7f0c01bffaa5ec8f7.ttf",
     "static/media/table-tennis.webp": "/static/media/table-tennis.f6a1b6b4d525b7afde60.webp",
     "static/media/poker-mobile.webp": "/static/media/poker-mobile.ccd271d3d19159effa7e.webp",
@@ -52,10 +52,10 @@
     "static/media/stream-icon-dark.webp": "/static/media/stream-icon-dark.9f2319b1bb81886b4463.webp",
     "static/media/chat-header.webp": "/static/media/chat-header.f544a67b45a770b36e1f.webp",
     "main.60940332.css.map": "/static/css/main.60940332.css.map",
-    "main.a802a8e5.js.map": "/static/js/main.a802a8e5.js.map"
+    "main.480feb17.js.map": "/static/js/main.480feb17.js.map"
   },
   "entrypoints": [
     "static/css/main.60940332.css",
-    "static/js/main.a802a8e5.js"
+    "static/js/main.480feb17.js"
   ]
 }
